@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(180, 136, 14);
+}
+
+.box{
+    background-color: rgb(192, 192, 192);
+    padding: 5px;
+    width: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+}
+
+.box2{
+    background-color:rgb(192, 192, 192);
+    padding: 2px;
+    width: 250px;
+    color:black
+}
